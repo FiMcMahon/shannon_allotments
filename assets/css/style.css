@@ -13,6 +13,12 @@ body{
     font-weight:300;
     color:#3a3a3a;
 }
+
+#logo{
+    box-sizing: content-box;
+    width: 10%;
+    border-radius: 50%;
+}
 h1{
     background-color: antiquewhite;
 }
