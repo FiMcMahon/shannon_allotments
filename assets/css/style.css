@@ -5,6 +5,7 @@
     margin:0;
     border:0;
     padding:0;
+    background: rgba(173, 197, 173, 0.3)
 }
 
 body{
@@ -12,11 +13,20 @@ body{
     font-weight:300;
     color:#3a3a3a;
 }
-
+h1{
+    background-color: antiquewhite;
+}
 /**hero image**/
 #hero-image{
-    height: 200px;
-    width:100%;
+    height: 600px;
+    max-width:100%;
+    display:block;
     background: url('../images/Allotment-group.JPG') no-repeat center center;
 
+}
+
+#map{
+    width:100%; 
+    height:300px;
+    border:1px solid black;
 }
