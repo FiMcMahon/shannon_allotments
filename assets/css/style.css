@@ -22,6 +22,30 @@ body{
 h1{
     background-color: antiquewhite;
 }
+
+#menu{
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu li{
+float:right;
+list-style-type: none;
+margin-right: 30px;
+}
+
+#menu a{
+text-decoration: none;
+color:inherit;
+}
+
+#menu a:hover{
+border-bottom: 1px solid #3a3a3a;
+}
+.active{
+border-bottom: 1px solid #3a3a3a;
+}
+
 /**hero image**/
 #hero-image{
     height: 600px;
@@ -55,4 +79,15 @@ h1{
     margin:1%;
     padding:5%;
     color:#3a3a3a
+}
+
+#photos{
+    clear:both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+#photos >img{
+    width:100%;
 }
