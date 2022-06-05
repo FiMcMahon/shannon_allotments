@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+*{
+    margin:0;
+    border:0;
+    padding:0;
+}
+
+body{
+    font-family:Courier Prime, Courier New;
+    font-weight:300;
+    color:#3a3a3a;
+}
