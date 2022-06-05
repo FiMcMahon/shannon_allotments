@@ -81,13 +81,18 @@ border-bottom: 1px solid #3a3a3a;
     color:#3a3a3a
 }
 
+#groupphoto{
+    float:center;
+    line-height: 0;
+}
 #photos{
     clear:both;
     line-height: 0;
-    column-count: 4;
-    column-gap: 0px;
+    column-count: 2;
+    column-gap: 2px;
 }
 
 #photos >img{
     width:100%;
 }
+
