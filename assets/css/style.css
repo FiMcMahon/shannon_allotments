@@ -39,6 +39,7 @@ list-style-type:none;
 margin-right: 60px;
 margin-bottom: 20px;
 margin-top:-30px;
+;
 }
 
 #menu a{
@@ -126,12 +127,17 @@ border-bottom: 1px solid #3a3a3a;
 }
 
 .signup-form{
-    margin:150px 10% 0 0;
+    display:block;
+    margin:auto;
     color:#fff;
-    background-color:rgba(60, 60, 60, 0.6);
+    background-color:rgba(60, 60, 60, 0.8);
     max-width:400px;
     position:absolute;
     padding:30px;
+    top: 75%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
         }
 
 .signup-form h2{
