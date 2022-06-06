@@ -148,19 +148,19 @@ border-bottom: 1px solid #3a3a3a;
     border-color:#f16c6b;
 }
 
-.join-button{
+.submit-button{
     margin-top:20px;
     border-radius:2px;
+    border:solid;
     padding:15px 32px 15px 32px;
     text-align:center;
     font-size:100%;
-    background-color:#f16c6b;
-    color:#fafafa;
+    background-color:rgb(173, 197, 173);
     display:block;
 }
 
-.join-button:hover{
-    background-color:#fafafa;
-    color:#f16c6b;
+.submit-button:hover{
+    background-color:antiquewhite;
+    color:#3a3a3a;
     display:block;
 }
