@@ -113,9 +113,21 @@ border-bottom: 1px solid #3a3a3a;
 
 /*news*/
 #biodiversity{
+
     
 }
 
+#youtubevideo{
+    display:block;
+    margin:auto;
+    max-width:400px;
+    padding:30px;
+    position:absolute;
+    top: 75%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)   
+}
 /**contact form**/
 
 .form-section {
@@ -170,9 +182,6 @@ border-bottom: 1px solid #3a3a3a;
     display:block;
 }
 
-#newsletter{
-    text-align: start;
-}
 .submit-button:hover{
     background-color:antiquewhite;
     color:#3a3a3a;
