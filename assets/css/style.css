@@ -58,7 +58,10 @@ border-bottom: 1px solid #3a3a3a;
     max-width:100%;
     position:inherit;
     display:inline-flexbox;
-    background: url('../images/Allotment-group.JPG') no-repeat center center;
+    background-image: url('../images/Allotment-group2.JPG');
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: cover;
     clear:both;
 }
 
