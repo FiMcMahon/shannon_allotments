@@ -170,6 +170,9 @@ border-bottom: 1px solid #3a3a3a;
     display:block;
 }
 
+#newsletter{
+    text-align: start;
+}
 .submit-button:hover{
     background-color:antiquewhite;
     color:#3a3a3a;
