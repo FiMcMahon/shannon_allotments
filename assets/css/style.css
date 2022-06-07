@@ -7,14 +7,32 @@
     padding:0;
 }
 
+.wrapper{
+    display:flex;
+    flex-flow: row wrap;
+    text-align: center;
+}
+
+.wrapper>*{
+padding: 10px;
+margin: 10px;
+flex:1 100%;
+border-radius: 10px;
+}
+
+.footer{
+    background:rgb(173, 197, 173);
+    height:80px;
+}
 body{
     font-family:Courier Prime, Courier New;
     font-weight:300;
     color:#3a3a3a;
     background-color: antiquewhite;
-}
 
+}
 #logo{
+    float:left;
     box-sizing: content-box;
     width: 10%;
     border-radius: 50%;
@@ -38,8 +56,8 @@ float:right;
 list-style-type:none;
 margin-right: 60px;
 margin-bottom: 20px;
-margin-top:-30px;
-;
+margin-top:30px;
+
 }
 
 #menu a{
@@ -67,7 +85,7 @@ border-bottom: 1px solid #3a3a3a;
     clear:both;
 }
 
-#map{
+.map{
     padding:5%;
     visibility: visible;
     width:100%; 
