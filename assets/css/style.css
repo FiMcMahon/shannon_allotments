@@ -78,7 +78,7 @@ border-bottom: 1px solid #3a3a3a;
     max-width:100%;
     position:inherit;
     display:inline-flexbox;
-    background-image: url('..//images/Allotment_group2.jpg');
+    background-image: url('..//images/allotment_group.jpg');
     background-repeat: no-repeat;
     background-attachment:scroll;
     background-size: cover;
@@ -151,7 +151,7 @@ border-bottom: 1px solid #3a3a3a;
 
 .form-section {
     clear: left;
-    background: url('../images/Flowers_bee.jpeg');
+    background: url('../images/flowers_bee.jpeg');
     background-size: cover;
     background-position: center;
     height: 900px;
