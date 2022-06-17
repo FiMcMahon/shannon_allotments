@@ -16,9 +16,7 @@
 
 .wrapper>*{
 padding: 10px;
-margin: 10px;
 flex:1 100%;
-border-radius: 10px;
 }
 
 .footer{
