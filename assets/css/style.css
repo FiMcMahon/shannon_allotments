@@ -145,10 +145,11 @@ margin-top:40px;
 
 
 .iframe-container{
-    position: relative;
-    width: 100%;
+    position:relative;
+    width: 50%;
     padding-bottom: 56.25%; 
     height: 0;
+    margin-left:25%;
 }
 
 .iframe-container iframe{
@@ -162,7 +163,7 @@ margin-top:40px;
 /**contact form**/
 
 .form-section {
-    clear: left;
+    clear:5left;
     background: url('../images/flowers_bee.jpeg');
     background-size: cover;
     background-position: center;
