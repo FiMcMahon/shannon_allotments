@@ -38,13 +38,14 @@ body{
 
 h1{
    margin:10px 10px 10px 10px;
-
 }
 
 p{
     text-align:justify;
     padding:2%;
 }
+
+
 /**navigation styles**/
 
 #menu{
@@ -141,10 +142,7 @@ margin-top:40px;
 }
 
 /*news*/
-#biodiversity{
 
-
-}
 
 .iframe-container{
     position: relative;
@@ -160,6 +158,7 @@ margin-top:40px;
     width: 100%;
     height: 100%;
   }
+
 /**contact form**/
 
 .form-section {
@@ -171,7 +170,7 @@ margin-top:40px;
 }
 
 .signup-form{
-    display:block;
+    display:inline-block;
     margin:auto;
     color:#fff;
     background-color:rgba(60, 60, 60, 0.8);
