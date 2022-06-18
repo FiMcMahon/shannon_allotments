@@ -79,12 +79,18 @@ margin-top:40px;
 
 
 .map{
-    padding:5%;
-    visibility: visible;
-    width:100%; 
-    height:500px;
-    display:inline-block;
+    position: relative;
     overflow: hidden;
+    padding-top: 56.25%;
+    }
+
+.responsive-map{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    border: 0;
 }
 
 .footer,nav{
