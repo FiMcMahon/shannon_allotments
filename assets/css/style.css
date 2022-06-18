@@ -166,15 +166,24 @@ margin-top:40px;
     padding: 2px;
 }
 
-@media (max-width: 800px) {
-    .biodiversity_garden_container {
+@media (max-width: 1000px) 
+{.biodiversity_garden_container{
       flex-direction: column;
     }
-
-div>p{
-    padding:0;
 }
+    { .flex-child{
+        max-width:100%;}
+    }
+   { .flex-child2{
+    margin:0;}
+}
+    
+    
 
+    div>p{
+        padding:0;
+    }
+    
 
 .iframe-container{
     position:relative;
@@ -195,7 +204,7 @@ div>p{
 /**contact form**/
 
 .form-section {
-    clear:5left;
+    clear:left;
     background: url('../images/flowers_bee.jpeg');
     background-size: cover;
     background-position: center;
@@ -249,8 +258,4 @@ div>p{
     background-color:antiquewhite;
     color:#3a3a3a;
     display:block;
-}
-
-@media all and (min-width:800px){
-
 }
