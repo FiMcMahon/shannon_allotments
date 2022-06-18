@@ -40,6 +40,10 @@ h1{
    margin:10px 10px 10px 10px;
 }
 
+h2{
+    text-align:center;
+    padding:2%;
+}
 p{
     text-align:justify;
     padding:2%;
@@ -97,16 +101,13 @@ margin-top:40px;
     width: 100%;
     height: 50%;
     border: 0;
+    
 }
 
 .footer,nav{
     height:30%;
     background-color:rgb(173, 197, 173)
 }
-.footer{
-        width: 100%;
-        margin-top: 1.5rem;
-    }
 
 .social-networks{
     padding: 1.25rem;
@@ -167,22 +168,21 @@ margin-top:40px;
     background: url('../images/flowers_bee.jpeg');
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height:1000px;
 }
 
 .signup-form{
-    display:inline-block;
-    margin:auto;
-    color:#fff;
-    background-color:rgba(60, 60, 60, 0.8);
-    max-width:400px;
-    position:absolute;
-    padding:30px;
-    top: 75%;
+    display: inline-block;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.8);
+    max-width: 200rem;
+    position: absolute;
+    padding: 30px;
+    top: 80%;
     left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-        }
+    margin-right: -10%;
+    transform: translate(-50%, -50%);
+}
 
 .signup-form h2{
     color:#fafafa;
