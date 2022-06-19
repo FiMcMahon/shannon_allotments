@@ -84,8 +84,14 @@ As a user I want to be able to:
 ## Wireframes
 The Wireframes were produced using Balsamiq. The final site varies from the wireframes due to developments that occurred during the building process.
 
-## Phone
-Home Page:
+### Home Page:
+
+### Gallery Page:
+
+### News Page:
+
+### Contact Page:
+
 
 ## Site Structure
 Shannon Allotments is a 4 page website. The home page is the default loading page.The other pages are accessible from the navigation menu at all times.
@@ -109,11 +115,11 @@ The bottom of the page contains an address and map to Craig's studio should the 
 Heading each page top, it’s fully responsive and toggles to a neat hamburger menu. It contains links to all pages, reachable at any time within the user's journey through the site. 
 
 ## Footer
-At the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. 
+At #the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. 
 
 ### Gallery
 Representative images are displayed in one simple and symmetrical gallery, with an off white  backdrop for visual impact.
-## News
+### News
 Via pictures and text placed on a fully responsive grid, users can find out more about the ethos at the allotment and the importance of biodiversity. It contains a short paragraph describing current biodiversity projects running at the Allotments. It also the work in progress biodiversity garden.
 
 ## Contact
