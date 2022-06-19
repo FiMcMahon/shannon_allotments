@@ -259,3 +259,10 @@ margin-top:40px;
     color:#3a3a3a;
     display:block;
 }
+
+@media (max-width:768px) 
+{.signup-form{
+    width: 90%;
+    top: 100%;
+}
+}
