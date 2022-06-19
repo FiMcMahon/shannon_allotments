@@ -134,7 +134,7 @@ The contact page contains a simple and fully responsive form, via which users ca
 * Github - used to deploy the website
 
 ## Testing
-Please refer here for more information on testing of the Shannon Allotments website.
+Please refer [here](https://duckduckgo.com) for more information on testing of the Shannon Allotments website.
 
 
 Users of this website will be able to information on the Shannon Allotments. About the allotments, the location, how to get involved in community projects and a sign-up form for to join the newsletter. 
