@@ -145,6 +145,10 @@ margin-top:40px;
 
 /*news*/
 
+h2~ p {
+    text-align:justify;
+    margin:2%;  
+}
 .biodiversity_garden_container{
     display:flex;
     flex-direction:row;
@@ -152,21 +156,22 @@ margin-top:40px;
 
 .flex-child1{
     flex: 1;
-    max-width: 30%;
+    max-width:100%;
+    margin-right:2%;
     margin-left:2%;
 }
 #biodiversitygarden{
-    height: 30em;
-    width: 30em;
+    height: 25rem;
+    width: 25rem;
     clear:both;
 }
 .flex-child2{
-    margin-left:18%;
-    margin-right:2%;
+    margin-left:5%;
+    margin-right:5%;
     padding: 2px;
 }
 
-@media (max-width: 1000px) 
+@media (max-width: 768px) 
 {.biodiversity_garden_container{
       flex-direction: column;
     }
@@ -175,7 +180,11 @@ margin-top:40px;
         max-width:100%;}
     }
    { .flex-child2{
-    margin:0;}
+    margin:;}
+}
+
+p> span{
+    float:left;
 }
     
     
