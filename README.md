@@ -87,6 +87,37 @@ The Wireframes were produced using Balsamiq. The final site varies from the wire
 ## Phone
 Home Page:
 
+## Site Structure
+Shannon Allotments is a 4 page website. The home page is the default loading page.The other pages are accessible from the navigation menu at all times.
+
+## Colour Scheme
+My colour scheme will take inspiration from the logo image including antiquewhite,greens and black. After some experimentation I settled on some different shades of the original selection to ensure contrast was optimised for a good UX.
+
+## Typography
+The font used were imported into the css from google fonts. Courier Prime was selected to give positive, informal and welcoming theme into the text elements of the site. Courier New  is the nominated fallback font, due to it’s simplicity, therefore allowing it to integrate well into the site should the other fonts not load.
+
+## Imagery
+Imagery is important on this site to convey the type of environment and people involved in Shannon Allotments. The images serve to inspire or entice a beginner gardener. The gallery images are aligned for optimal viewing and user experience.
+
+## Features
+The site contains common features such as a navigational bar and footer, familiar to all internet users. This creates a friendly and non intimidating environment in which the user can feel comfortable to explore the pages, make return visits, and enjoy a positive user experience.
+
+## Existing Features
+### Home
+The bottom of the page contains an address and map to Craig's studio should the user want to visit.
+### Navigational Bar
+Heading each page top, it’s fully responsive and toggles to a neat hamburger menu. It contains links to all pages, reachable at any time within the user's journey through the site. 
+
+## Footer
+At the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. 
+
+### Gallery
+Representative images are displayed in one simple and symmetrical gallery, with an off white  backdrop for visual impact.
+## News
+Via pictures and text placed on a fully responsive grid, users can find out more about the ethos at the allotment and the importance of biodiversity. It contains a short paragraph describing current biodiversity projects running at the Allotments. It also the work in progress biodiversity garden.
+
+## Contact
+The contact page contains a simple and fully responsive form, via which users can contact the Allotment group without having to leave the site. This page completes the user’s journey through the site and is designed to be calm, simple and reassuring, with 4 labelled inputs and a submit button styled in keeping with the rest of the site. The form is set against a visually appealling garden scene in keeping with the style of the site for great UX. 
 
 Users of this website will be able to information on the Shannon Allotments. About the allotments, the location, how to get involved in community projects and a sign-up form for to join the newsletter. 
 
