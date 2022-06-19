@@ -70,6 +70,7 @@ As a user I want to be able to:
 * Navigate through the site smoothly
 * See examples of ongoing work on the allotment plots
 * Be able to contact the allotment group easily
+* Be able to join a newsletter
 * Learn more about gardening
 * Grow my own vegetables
 * Learn more about community groups in my area
@@ -134,8 +135,47 @@ The contact page contains a simple and fully responsive form, via which users ca
 * Github - used to deploy the website
 
 ## Testing
-Please refer [here](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md) for more information on testing of the Shannon Allotments website.
+Please refer to [here](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md) for more information on testing of the Shannon Allotments website.
 
+## Deployment
+The site was deployed to GitHub pages.
 
-Users of this website will be able to information on the Shannon Allotments. About the allotments, the location, how to get involved in community projects and a sign-up form for to join the newsletter. 
+### Deploy to GitHub Pages
+1. Navigate to the settings tab in the GitHub repository
+2. Once in settings, navigate to the pages tab on the left of the page
+3. Under source, select branch ‘master’ and then click ‘save’
+4. Page will no automatically refresh and show a detailed ribbon display to indicate deployment
 
+### To Fork the Repository
+To make a copy or ‘fork’ the repository -
+
+1. Log into GitHub and locate repository
+2. On the right hand side of the page select the ‘fork’ option to create and copy of the original
+ 
+### To create a Local Clone
+1. Under the repository name, click on the ‘code’ tab
+2. In the clone box, HTTPS tab, click on the clipboard icon
+3. In your IED open GitBash
+4. Changed the current working directory to the location you want the cloned directory to be made
+5. Type ‘git clone’ and then paste the URL copied from GitHub
+6. Press enter and the local clone will be created
+
+## Content
+Many issues were at least partly resolved by searching Stack Overflow and w3schools
+Harry, a Code Institue mentor helped with my understanding of a responsive css nav bar.
+Inspiration for the README.md came from Tasha Taylor Johnson's repository
+
+## Media
+All photos are either my own or exist in the public domain already.
+
+## Code
+Throughout the building process I found many helpful tutorials online. I sometimes applied principles within them to the site, after fully understanding their code and modifying to fit the site's needs.
+
+The hamburger menu was inspired by this youtube tutorial
+The image gallery was inspired by Code Institutes Love Running project
+The sticky footer was inspired by this tutorial
+
+## Acknowledgements
+This website was executed and completed as a portfolio 1 Project for the full stack diploma at Code Institute. I would like to firstly thank my mentor,  Harry Dhillon for his patience and guidance. Shannon Allotments is a real concept, but the website is purely for the sake of the developer's portfolio and not for public consumption.
+
+Fiona McMahon, 2022.
