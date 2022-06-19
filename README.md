@@ -27,11 +27,9 @@ Imagery
 Features
 Existing Features
 Home
-Dogs
-About
-Learn
+Gallery
+News
 Contact
-Form Confirmation
 Future Features
 Technologies Used
 Testing
@@ -85,13 +83,13 @@ As a user I want to be able to:
 The Wireframes were produced using Balsamiq. The final site varies from the wireframes due to developments that occurred during the building process.
 
 ### Home Page:
-
+![Home Page Wireframe](/assets/images/readme_images/Home%20Page%20.png)
 ### Gallery Page:
-
+![Gallery Page Wireframe](/assets/images/readme_images/Gallery.png)
 ### News Page:
-
+![News Page Wireframe](/assets/images/readme_images/News.png)
 ### Contact Page:
-
+![Contact Page Wireframe](/assets/images/readme_images/Contact.png)
 
 ## Site Structure
 Shannon Allotments is a 4 page website. The home page is the default loading page.The other pages are accessible from the navigation menu at all times.
@@ -124,6 +122,20 @@ Via pictures and text placed on a fully responsive grid, users can find out more
 
 ## Contact
 The contact page contains a simple and fully responsive form, via which users can contact the Allotment group without having to leave the site. This page completes the user’s journey through the site and is designed to be calm, simple and reassuring, with 4 labelled inputs and a submit button styled in keeping with the rest of the site. The form is set against a visually appealling garden scene in keeping with the style of the site for great UX. 
+
+## Technologies Used
+* HTML5 - provides content and structure
+* CSS - provides styling
+* Balsamiq - for wireframes
+* Font Awesome - Contact form icon implemented  from font awesome version 5
+* Google Fonts - Font used in the website imported from here
+* Chrome Dev Tools - used extensively to experiment with grid, flexbox and general responsiveness.
+* Gitpod - used to used to create and host the website
+* Github - used to deploy the website
+
+## Testing
+Please refer here for more information on testing of the Shannon Allotments website.
+
 
 Users of this website will be able to information on the Shannon Allotments. About the allotments, the location, how to get involved in community projects and a sign-up form for to join the newsletter. 
 
