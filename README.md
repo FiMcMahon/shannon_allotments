@@ -166,7 +166,7 @@ Harry, a Code Institue mentor helped with my understanding of a responsive css n
 Inspiration for the README.md came from Tasha Taylor Johnson's repository
 
 ## Media
-All photos are either my own or exist in the public domain already.
+All photos are either my own or exists in the public domain already.
 
 ## Code
 Throughout the building process I found many helpful tutorials online. I sometimes applied principles within them to the site, after fully understanding their code and modifying to fit the site's needs.
