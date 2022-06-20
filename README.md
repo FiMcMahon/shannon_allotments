@@ -15,8 +15,7 @@ https://github.com/FiMcMahon/shannon_allotments
 
 ## Contents
 
-<ol> 
-[Key Project Goals] (Key Project Goals)
+<ol>Key Project Goals</ol>
 Brief
 Target Audience
 UX User Experience
