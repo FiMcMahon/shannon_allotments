@@ -79,7 +79,7 @@ As a user I want to be able to:
 * Volunteer with community groups
 * Understand more about biodiversity
 * Connect with the Allotment group on social media
-* Learn more about the developer who created the site
+
 
 
 ## Wireframes

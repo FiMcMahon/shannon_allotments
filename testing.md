@@ -76,29 +76,29 @@ The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox
 
 Testing User Stories
 Understand the purpose of the site on loading
-
-The play on words Logo, 'Pawsome Pawtraits' and large Hero image of a hanging dog portrait gives the user an immediate understanding of what the site's main subject is.
-Navigate through the site smoothly
-
-The pages can be accessed in the same way on every page, via a very simply navigational menu, which highlights what page is active by a gold colour change.
-See lots of examples of artworks
-
-There is an extensive second page gallery and then numerous artworks articulating the other pages that the user can browse at leisure.
-be able to contact Craig easily
-
-Craig's contact details appear on a clearly defined 'Contact' page, both via a direct contact form, and then location details below.
-Social media links are also apparent on each page as a secondary means of contact.
-Learn more about Craig's process and perhaps learn some skills myself
-
-The learn pages contains a section which breaks down Craig's process for the user, and 3 helpful videos to describe visually how to complete your own portrait.
-Connect with Craig on social media
-
-Social media links appear in the footer on every page without exception. They change colour on hover so the user knows where to go.
-Learn more about the developer who created the site
-
-The developer links also lie in the footer, after Craig's, should the user be curious to visit.
-Peer Review
-Prior to launch, the site was submitted for Peer Review by fellow students and alumni at Code Institute and also some individuals outside the software development world. Feedback included issues with responsiveness and layout issues, both of which were solved with some minor css adjustments.
+* Understand the purpose of the site on loading
+* Navigate through the site smoothly
+    The pages can be accessed in the same way on every page, via a very simply navigational menu.
+* See examples of ongoing work on the allotment plots
+    There is an extensive gallery page and other images on the other pages that the user can browse at leisure.
+* Be able to contact the allotment group easily
+    An enquiry form on the 'Contact' page, allows for the Allotment group to be contacted directly.
+    Location details are on the bottom of the 'Home' page .
+    Social media links are also apparent on each page as a secondary means of contact.
+* Be able to join a newsletter
+    An option to join a newsletter about the Allotments is available on the Contact form.
+* Learn more about gardening
+    Content on the 'News' page details information about biodiversity and gardening.
+* Grow my own vegetables
+    An embedded Youtube video on the 'News Page' links to a channel dedicated to informing and guidung beginner gardeners on growing their own fruits and vegetables.
+* Learn more about community groups in my area
+    The 'Home' page details information about the Allotments and the work the allotment community are doing. 
+* Volunteer with community groups
+    The oppertunity to volunteer is presented on the 'News'page and a user can contact the Allotment group using the direct contaact form. 
+* Understand more about biodiversity
+    A section of the 'News' pages is dedicated to information on biodiversity.
+* Connect with the Allotment group on social media
+    Links to social media are present on each page, in the footer.
 
 Bugs
 Resolved

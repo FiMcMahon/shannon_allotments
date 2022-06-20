@@ -88,9 +88,12 @@ border-bottom: 1px solid #3a3a3a;
     #menu{
         display: flex;
         flex-direction: column;
+       
 }
-#menu li:nth-of-type(4) {
-    order: -1;
+
+
+#menu li{
+    order:4;
 }
 }
  
