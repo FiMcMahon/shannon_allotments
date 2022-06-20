@@ -109,9 +109,9 @@ The site contains common features such as a navigational bar and footer, familia
 
 ## Existing Features
 ### Home
-The bottom of the page contains an address and map to Craig's studio should the user want to visit.
+The bottom of the page contains a location map the user want to visit.
 #### Navigational Bar
-Heading each page top, it’s fully responsive and toggles to a neat hamburger menu. It contains links to all pages, reachable at any time within the user's journey through the site. 
+Heading each page top, it’s responsive and links to all pages, reachable at any time within the user's journey through the site. 
 
 #### Footer
 At the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. 
@@ -161,7 +161,7 @@ To make a copy or ‘fork’ the repository -
 6. Press enter and the local clone will be created
 
 ## Content
-Many issues were at least partly resolved by searching Stack Overflow and w3schools
+Many issues were at least partly resolved by searching Stack Overflow, w3schools and MDN Docs.
 Harry, a Code Institue mentor helped with my understanding of a responsive css nav bar.
 Inspiration for the README.md came from Tasha Taylor Johnson's repository
 
@@ -171,9 +171,8 @@ All photos are either my own or exists in the public domain already.
 ## Code
 Throughout the building process I found many helpful tutorials online. I sometimes applied principles within them to the site, after fully understanding their code and modifying to fit the site's needs.
 
-The hamburger menu was inspired by this youtube tutorial
 The image gallery was inspired by Code Institutes Love Running project
-The sticky footer was inspired by this tutorial
+
 
 ## Acknowledgements
 This website was executed and completed as a portfolio 1 Project for Diploma in Software Development (E-commerce Applications) at Code Institute. I would like to firstly thank my mentor,  Harry Dhillon for his patience and guidance. Shannon Allotments is a real concept, but the website is purely for the sake of the developer's portfolio and not for public consumption.

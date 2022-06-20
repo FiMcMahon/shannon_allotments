@@ -85,20 +85,23 @@ border-bottom: 1px solid #3a3a3a;
 .active{
 border-bottom: 1px solid #3a3a3a;
 }
-  
+
+
 @media(max-width:425px){
-    #menu{
+    .navbar{
         display: flex;
         flex-direction: column-reverse;
         text-align: center;
-       
+ ;  
+}
+}
+@media(max-width:425px){#logo{
+        float:none;
+    }
 }
 
-#menu li{
-    order:4;
+@media(max-width:375px){
 }
-} 
-
 /**hero image**/
 #hero-image{
     display:flex;
