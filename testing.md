@@ -26,11 +26,11 @@ W3C CSS Validator test result
 ## Lighthouse
 I Used Lighthouse in Chrome Developer Tools to test each of the pages for:
 
-Performance - How the page performs whilst loading.
-Accessibility - How accessible is the site for all users and how can it be improved.
-Best Practices - How does the site conform to industry best practices.
-SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
-After some below 90 scores on initial mobile tests, I compressed the site images and re-tested each page.
+* Performance - How the page performs whilst loading.
+* Accessibility - How accessible is the site for all users and how can it be improved.
+* Best Practices - How does the site conform to industry best practices.
+* SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
+* ////After some below 90 scores on initial mobile tests, I compressed the site images and re-tested each page.////
 
 Initial Testing Mobile:
 ![Gallery Page Mobile Test](/assets/images/readme_images/lighthouse_gallerypage_mobile.PNG)
@@ -85,4 +85,4 @@ During validation the following bugs occurred.
 Bugs were generated during in the building process and were easily rectified by changing certain file names to spaceless ones and changing the section tags to divs.
 
 ### Unresolved
-There is a bug in the learn page which is a sizing and overflow issue, which had I more time I would solve by more experimentation with the current code. 
+Navbar responsivity in mobile screens. 
