@@ -84,7 +84,7 @@ As a user I want to be able to:
 The Wireframes were produced using Balsamiq. The final site varies from the wireframes due to developments that occurred during the building process.
 
 ### Home Page:
-![Home Page Wireframe](/assets/images/readme_images/Home%20Page%20.png)
+![Home Page Wireframe](/assets/images/readme_images/Home.png)
 ### Gallery Page:
 ![Gallery Page Wireframe](/assets/images/readme_images/Gallery.png)
 ### News Page:

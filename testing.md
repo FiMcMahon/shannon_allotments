@@ -1,7 +1,6 @@
 Testing
 The Shannon Allotments site has been tested in the following ways -
 
-* Code Validation
 * W3C HTML Validator
 * W3C CSS Validator
 * Lighthouse
@@ -9,7 +8,6 @@ The Shannon Allotments site has been tested in the following ways -
 * A11y Color Contrast Accessibility Checker
 * Browser Compatibility
 * Testing User Stories
-* Peer Review
 * Bugs
 * Resolved
 * Unresolved
@@ -22,6 +20,8 @@ I validated both my HTML and CSS code multiple times whilst building the website
 All pages passed the CSS validator without error.
 
 W3C CSS Validator test result
+
+![W3C CSS Validator test result](/assets/images/readme_images/W3Cnoerrors.png)
 
 Lighthouse
 I Used Lighthouse in Chrome Developer Tools to test each of the pages for:

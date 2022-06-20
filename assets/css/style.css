@@ -146,7 +146,6 @@ border-bottom: 1px solid #3a3a3a;
 }
 
 #groupphoto{
-    float:center;
     line-height: 0;
 }
 #photos{
@@ -195,13 +194,12 @@ h2~ p {
       flex-direction: column;
     }
 }
-
-{.flex-child1{
+@media (max-width: 768px) {.flex-child2 {
     max-width:100%;
     margin:5%;
+}
+}
 
-}
-}
 
 p> span{
     float:left;
