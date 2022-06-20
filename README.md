@@ -1,7 +1,7 @@
 # shannon_allotments
 A website for the public of Shannon, Co.Clare ireland with information on the location, contact form, food growing tips and how they can get involved in the Shannon Allotments.
 ## Purpose
-This Website was created for the sole purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. It was built using the knowledge gained from the HTML, CSS and User Centric Design modules. A full list of technologies used can be found in the technologies section of this document.
+This Website was created for the sole purpose of completing the portfolio 1 Project for Diploma in Software Development. It was built using the knowledge gained from the HTML, CSS and User Centric Design modules. A full list of technologies used can be found in the technologies section of this document.
 
 The live website can be found **here**.
 ## Shannon Allotments Responsive website 
@@ -15,50 +15,48 @@ https://github.com/FiMcMahon/shannon_allotments
 
 ## Contents
 
-<ol>Key Project Goals</ol>
-Brief
-Target Audience
-UX User Experience
-User Stories
-Wireframes
-Site Structure
-Colour Scheme
-Typography
-Imagery
-Features
-Existing Features
-Home
-Gallery
-News
-Contact
-Future Features
-Technologies Used
-Testing
-Deployment
-To Fork the Repository
-To create a Local Clone
-Credits
-Content
-Media
-Code
-Acknowledgements
+* [Key Project Goals](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#key-project-goals)
+* [Brief]
+* [Target Audience]
+* [UX User Experience]
+* [User Stories]
+* [Wireframes]
+* [Site Structure]
+* [Colour Scheme]
+* [Typography]
+* [Imagery]
+* [Features]
+* [Existing Features]
+* [Home]
+* [Gallery]
+* [News]
+* [Contact]
+* [Future Features]
+* [Technologies Used]
+* [Testing]
+* [Deployment]
+* [To Fork the Repository]
+* [To create a Local Clone]
+* [Credits]
+* [Content]
+* [Media]
+* [Code]
+* [Acknowledgements]
 
 ## Key Project Goals
 This project has 2 main objectives:
 * As an informative website about a community based garden 
-* This Website was created for the purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. It was built using the knowledge gained from the HTML, CSS and User Centric Design modules. A full list of technologies used can be found in the technologies section of this document.
-
-To demonstrate my competency as a developer using HMTL & CSS languages
+* This Website was created for the purpose of completing the portfolio 1 Project for Diploma in Software Development. It was built using the knowledge gained from the HTML, CSS and User Centric Design modules. A full list of technologies used can be found in the technologies section of this document.
 
 
 ## Brief
 The website should inform on and promote Shannon Allotments ethos and commitment to improving the local natural environment. It should allow members of the public an easy access route for contacting the allotment group.
+It should include:
 
-A gallery of works
-A brief explanation of the Allotments location and organsing body.
-A gallery showcasing the work on the allotments.
-A contact form for enquiries.
-Links to social media
+* A brief explanation of the Allotments location and organsing body.
+* A gallery showcasing the work on the allotments.
+* A contact form for enquiries.
+* Links to social media
 
 ## Target Audience
 Gardeners, Public in the local area, people interested in nature and the environment
