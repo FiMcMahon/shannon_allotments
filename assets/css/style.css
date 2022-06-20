@@ -89,7 +89,8 @@ border-bottom: 1px solid #3a3a3a;
 @media(max-width:425px){
     #menu{
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
+        text-align: center;
        
 }
 
@@ -194,9 +195,11 @@ h2~ p {
       flex-direction: column;
     }
 }
-@media (max-width: 768px) {.flex-child2 {
+@media (max-width: 768px) {.flex-child2 >p {
     max-width:100%;
-    margin:5%;
+    margin-left:5%;
+    margin-right:5%;
+  
 }
 }
 
