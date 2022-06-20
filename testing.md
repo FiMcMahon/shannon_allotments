@@ -1,9 +1,9 @@
-Testing
+## Testing
 The Shannon Allotments site has been tested in the following ways -
 
-* W3C HTML Validator
-* W3C CSS Validator
-* Lighthouse
+* [Code Validation](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#code-validation)
+    - [W3C HTML Validator & W3C CSS Validator](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#w3c-html-validator)
+* [Lighthouse]()
 * Responsiveness
 * A11y Color Contrast Accessibility Checker
 * Browser Compatibility
@@ -13,7 +13,7 @@ The Shannon Allotments site has been tested in the following ways -
 * Unresolved
 
 ## Code Validation
-### W3C HTML Validator
+### W3C HTML Validator & W3C CSS Validator
 
 I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
@@ -23,7 +23,7 @@ W3C CSS Validator test result
 
 ![W3C CSS Validator test result](/assets/images/readme_images/W3Cnoerrors.png)
 
-Lighthouse
+## Lighthouse
 I Used Lighthouse in Chrome Developer Tools to test each of the pages for:
 
 Performance - How the page performs whilst loading.
@@ -37,14 +37,14 @@ Lighthouse Testing Mobile
 
 Lighthouse testing Desktop
 
-Responsiveness
+## Responsiveness
 Responsive design tests were carried out manually using Google Chrome DevTools.
 
 
-Browser Compatibility
+## Browser Compatibility
 The site was tested on Google Chrome and Microsoft Edge, with no visible issues for the user. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
 
-Testing User Stories
+## Testing User Stories
 Understand the purpose of the site on loading
 * Understand the purpose of the site on loading
 * Navigate through the site smoothly
@@ -70,13 +70,13 @@ Understand the purpose of the site on loading
 * Connect with the Allotment group on social media
     Links to social media are present on each page, in the footer.
 
-Bugs
-Resolved
+## Bugs
+### Resolved
 During validation the following bugs occurred.
 
 W3C Resolved Bug W3C Resolved Bug
 
 Both were oversights in the building process and were easily rectified by changing the incriminating file names to spaceless ones and changing the section tag to a div.
 
-Unresolved
+### Unresolved
 There is a bug in the learn page which is a sizing and overflow issue, which had I more time I would solve by more experimentation with the current code. 
