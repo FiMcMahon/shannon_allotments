@@ -40,24 +40,9 @@ Lighthouse testing Desktop
 Responsiveness
 Responsive design tests were carried out manually using Google Chrome DevTools.
 
-This included:
-
-Iphone SE, XR, 12pro
-Pixel 5
-Samsung Galaxy S8, S20 Ultra, A51/71
-Ipad Air & Mini
-Surface pro 7 & duo
-Galaxy Fold
-Nest Hub & Hub Max
-I also tested on iphone13, Ipad Pro, Macbook and Galaxy Note 8. The only known issues are with the Galaxy fold, where images are not rendering correctly. In future this could be solved via more specific media queires. Otherwise all content and imagery appeared to render as inteneded on all sited devices.
-
-A11y Color Contrast Accessibility Checker
-Colour contrast tests were carried out across the website and all came back without issue.
-
-Colour Contrast Checks
 
 Browser Compatibility
-The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox, with no visible issues for the user. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
+The site was tested on Google Chrome and Microsoft Edge, with no visible issues for the user. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
 
 Testing User Stories
 Understand the purpose of the site on loading
