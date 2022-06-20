@@ -16,11 +16,12 @@ The Shannon Allotments site has been tested in the following ways -
 
 I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
-All pages passed the CSS validator without error.
+All pages passed the validator without error.
+![W3C HTML Validator test result](/assets/images/readme_images/W3Cnoerrors.PNG)
 
 W3C CSS Validator test result
 
-![W3C CSS Validator test result](/assets/images/readme_images/W3Cnoerrors.png)
+![W3C CSS Validator test result](/assets/images/readme_images/W3CCSSnoerrors.PNG)
 
 ## Lighthouse
 I Used Lighthouse in Chrome Developer Tools to test each of the pages for:
@@ -29,12 +30,19 @@ Performance - How the page performs whilst loading.
 Accessibility - How accessible is the site for all users and how can it be improved.
 Best Practices - How does the site conform to industry best practices.
 SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
-After some below 90 scores on initial mobile tests, I compressed the site images and re-tested each page. On these secondary tests, no score came below 94.
+After some below 90 scores on initial mobile tests, I compressed the site images and re-tested each page.
+
+Initial Testing Mobile:
+![Gallery Page Mobile Test](/assets/images/readme_images/lighthouse_gallerypage_mobile.PNG)
+ 
+On these secondary tests............
 
 As an example, the results for the Shannon Allotments Home Page for both Mobile & Desktop are below.
-Lighthouse Testing Mobile
+Lighthouse Testing Mobile:
 
-Lighthouse testing Desktop
+
+Lighthouse testing Desktop:
+
 
 ## Responsiveness
 Responsive design tests were carried out manually using Google Chrome DevTools.
@@ -72,10 +80,9 @@ The site was tested on Google Chrome and Microsoft Edge, with no visible issues 
 ## Bugs
 ### Resolved
 During validation the following bugs occurred.
+![W3C Resolved Bug](/assets/images/readme_images/bug.PNG)
 
-W3C Resolved Bug W3C Resolved Bug
-
-Both were oversights in the building process and were easily rectified by changing the incriminating file names to spaceless ones and changing the section tag to a div.
+Bugs were generated during in the building process and were easily rectified by changing certain file names to spaceless ones and changing the section tags to divs.
 
 ### Unresolved
 There is a bug in the learn page which is a sizing and overflow issue, which had I more time I would solve by more experimentation with the current code. 
