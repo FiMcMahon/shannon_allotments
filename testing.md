@@ -3,14 +3,13 @@ The Shannon Allotments site has been tested in the following ways -
 
 * [Code Validation](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#code-validation)
     - [W3C HTML Validator & W3C CSS Validator](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#w3c-html-validator)
-* [Lighthouse]()
-* Responsiveness
-* A11y Color Contrast Accessibility Checker
-* Browser Compatibility
-* Testing User Stories
-* Bugs
-* Resolved
-* Unresolved
+* [Lighthouse](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#lighthouse)
+* [Responsiveness](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#responsiveness)
+* [Browser Compatibility](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#browser-compatibility)
+* [Testing User Stories](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#testing-user-stories)
+* [Bugs](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#bugs)
+    - [Resolved](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#resolved)
+    - [Unresolved](https://github.com/FiMcMahon/shannon_allotments/blob/main/testing.md#unresolved)
 
 ## Code Validation
 ### W3C HTML Validator & W3C CSS Validator
@@ -45,7 +44,7 @@ Responsive design tests were carried out manually using Google Chrome DevTools.
 The site was tested on Google Chrome and Microsoft Edge, with no visible issues for the user. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
 
 ## Testing User Stories
-Understand the purpose of the site on loading
+
 * Understand the purpose of the site on loading
 * Navigate through the site smoothly
     The pages can be accessed in the same way on every page, via a very simply navigational menu.
