@@ -19,29 +19,29 @@ https://github.com/FiMcMahon/shannon_allotments
 * [Brief](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#brief)
 * [Target Audience](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#target-audience)
 * [UX User Experience](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#ux-user-experience)
-    - [User Stories]
-    - [Wireframes]
-    - [Site Structure]
-    - [Colour Scheme]
-    - [Typography]
-    - [Imagery]
-* [Features]
-    - [Existing Features]
-    - [Home]
-    - [Gallery]
-    - [News]
-    - [Contact]
+
+    - [Wireframes](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#wireframes)
+    - [Site Structure](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#site-structure)
+    - [Colour Scheme](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#colour-scheme)
+    - [Typography](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#typography)
+    - [Imagery](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#imagery)
+* [Features](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#features)
+* [Existing Features](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#existing-features)
+    - [Home](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#home)
+    - [Gallery](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#gallery)
+    - [News](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#news)
+    - [Contact](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#contact)
 * [Future Features]
-* [Technologies Used]
-* [Testing]
-* [Deployment]
+* [Technologies Used](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#technologies-used)
+* [Testing](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#testing)
+* [Deployment](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#deployment)
     - [To Fork the Repository]
     - [To create a Local Clone]
 * [Credits]
-    - [Content]
-    - [Media]
-    - [Code]
-* [Acknowledgements]
+    - [Content](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#content)
+    - [Media](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#media)
+    - [Code](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#code)
+* [Acknowledgements](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#acknowledgements)
 
 ## Key Project Goals
 This project has 2 main objectives:
@@ -62,7 +62,8 @@ It should include:
 Gardeners, Public in the local area, people interested in nature and the environment
 
 ## UX: User Experience
-User Stories
+User Stories  
+
 As a user I want to be able to:
 
 * Understand the purpose of the site on loading
@@ -109,18 +110,18 @@ The site contains common features such as a navigational bar and footer, familia
 ## Existing Features
 ### Home
 The bottom of the page contains an address and map to Craig's studio should the user want to visit.
-### Navigational Bar
+#### Navigational Bar
 Heading each page top, it’s fully responsive and toggles to a neat hamburger menu. It contains links to all pages, reachable at any time within the user's journey through the site. 
 
-## Footer
-At #the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. 
+#### Footer
+At the bottom of all pages, is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. 
 
 ### Gallery
 Representative images are displayed in one simple and symmetrical gallery, with an off white  backdrop for visual impact.
 ### News
 Via pictures and text placed on a fully responsive grid, users can find out more about the ethos at the allotment and the importance of biodiversity. It contains a short paragraph describing current biodiversity projects running at the Allotments. It also the work in progress biodiversity garden.
 
-## Contact
+### Contact
 The contact page contains a simple and fully responsive form, via which users can contact the Allotment group without having to leave the site. This page completes the user’s journey through the site and is designed to be calm, simple and reassuring, with 4 labelled inputs and a submit button styled in keeping with the rest of the site. The form is set against a visually appealling garden scene in keeping with the style of the site for great UX. 
 
 ## Technologies Used
