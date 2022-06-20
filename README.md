@@ -178,6 +178,6 @@ The image gallery was inspired by Code Institutes Love Running project
 The sticky footer was inspired by this tutorial
 
 ## Acknowledgements
-This website was executed and completed as a portfolio 1 Project for the full stack diploma at Code Institute. I would like to firstly thank my mentor,  Harry Dhillon for his patience and guidance. Shannon Allotments is a real concept, but the website is purely for the sake of the developer's portfolio and not for public consumption.
+This website was executed and completed as a portfolio 1 Project for Diploma in Software Development (E-commerce Applications) at Code Institute. I would like to firstly thank my mentor,  Harry Dhillon for his patience and guidance. Shannon Allotments is a real concept, but the website is purely for the sake of the developer's portfolio and not for public consumption.
 
 Fiona McMahon, 2022.
