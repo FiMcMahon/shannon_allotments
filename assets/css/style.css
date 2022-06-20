@@ -44,6 +44,7 @@ h2{
     text-align:center;
     padding:2%;
 }
+
 p{
     text-align:justify;
     padding:2%;
@@ -64,6 +65,7 @@ p{
 #menu, #logo{
     line-height: 20%;
 }
+
 #menu li{
     list-style-type:none;
     margin-right: 60px;
@@ -91,12 +93,10 @@ border-bottom: 1px solid #3a3a3a;
        
 }
 
-
 #menu li{
     order:4;
 }
-}
- 
+} 
 
 /**hero image**/
 #hero-image{
@@ -195,9 +195,11 @@ h2~ p {
       flex-direction: column;
     }
 }
-{ .flex-child1{
+
+{.flex-child1{
     max-width:100%;
     margin:5%;
+
 }
 }
 
@@ -206,11 +208,10 @@ p> span{
 
 }
     
-    div>p{
+div>p{
         padding:0;
     }
     
-
 .iframe-container{
     position:relative;
     width: 50%;
