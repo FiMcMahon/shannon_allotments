@@ -17,23 +17,8 @@ The Shannon Allotments site has been tested in the following ways -
 ## Code Validation
 ### W3C HTML Validator
 
-Home Page
+I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
-W3C Validator test result
-
-Gallery Page
-
-W3C Validator test result
-
-News Page
-
-W3C Validator test result
-
-Contact Page
-
-W3C Validator test result
-
-W3C CSS Validator
 All pages passed the CSS validator without error.
 
 W3C CSS Validator test result
