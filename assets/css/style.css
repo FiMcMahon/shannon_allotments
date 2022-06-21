@@ -87,20 +87,27 @@ border-bottom: 1px solid #3a3a3a;
 }
 
 
-@media(max-width:425px){
-    .navbar{
-        display: flex;
+@media(max-width:426px){
+    #menu{
+        display:flex;
         flex-direction: column-reverse;
         text-align: center;
- ;  
+        font-size:80%;
+        inline-padding:0;
+
 }
 }
+
+
 @media(max-width:425px){#logo{
         float:none;
     }
 }
 
 @media(max-width:375px){
+    .navbar{
+        
+}
 }
 /**hero image**/
 #hero-image{
@@ -221,7 +228,7 @@ div>p{
     width: 50%;
     padding-bottom: 56.25%; 
     height: 0;
-    margin-left:25%;
+    margin:0 20% 5%;
 }
 
 .iframe-container iframe{
