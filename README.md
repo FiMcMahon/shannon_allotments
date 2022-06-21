@@ -31,7 +31,6 @@ https://github.com/FiMcMahon/shannon_allotments
     - [Gallery](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#gallery)
     - [News](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#news)
     - [Contact](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#contact)
-* [Future Features]
 * [Technologies Used](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#technologies-used)
 * [Testing](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#testing)
 * [Deployment](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#deployment)
