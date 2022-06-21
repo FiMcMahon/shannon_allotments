@@ -19,7 +19,6 @@
     flex:1 100%;
 }
 
-
 body{
     font-family:Courier Prime, Courier New;
     font-weight:300;
@@ -36,20 +35,16 @@ body{
     margin-top:10px;
 }
 
-h1{
-   margin:10px 10px 10px 10px;
-}
-
-h2{
+h1,h2{
     text-align:center;
-    padding:2%;
+    margin:1em 1em 1em 1em
 }
 
 p{
     text-align:justify;
     padding:2%;
+    margin:2em 2em 2em 2em;
 }
-
 
 /**navigation styles**/
 #menu{
@@ -86,18 +81,14 @@ border-bottom: 1px solid #3a3a3a;
 border-bottom: 1px solid #3a3a3a;
 }
 
-
 @media(max-width:426px){
     #menu{
         display:flex;
         flex-direction: column-reverse;
         text-align: center;
         font-size:80%;
-        inline-padding:0;
-
 }
 }
-
 
 @media(max-width:426px){#logo{
         margin:0;
@@ -124,7 +115,6 @@ border-bottom: 1px solid #3a3a3a;
     max-width: 100%;
 
 }
-
 
 .map{
     position: relative;
@@ -220,7 +210,6 @@ h2~ p {
   
 }
 }
-
 
 p> span{
     float:left;
