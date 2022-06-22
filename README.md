@@ -3,9 +3,9 @@ A website for the public of Shannon, Co.Clare ireland with information on the lo
 ## Purpose
 This Website was created for the sole purpose of completing the portfolio 1 Project for Diploma in Software Development. It was built using the knowledge gained from the HTML, CSS and User Centric Design modules. A full list of technologies used can be found in the technologies section of this document.
 
-The live website can be found [Link to Shannon Allotments webpage](https://fimcmahon.github.io/shannon_allotments/)
+The live website can be found at [Shannon Allotments](https://fimcmahon.github.io/shannon_allotments/)
 ## Shannon Allotments Responsive website 
-//** Am I resposive image goes here**//
+![Am I Responsive Image](/assets/images/readme_images/amiresponsive.png)
 The Shannon Allotment Website is a landing page for members of the public in Shannon, Co.Clare and surrounds who are interested in gardening and growing food.The Shannon Allotments are a community group leasing allotments from Clare County Council for the purpose of growing their own fruit, flowers and vegetables.
 
 ## Contents
