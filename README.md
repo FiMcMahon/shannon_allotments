@@ -22,6 +22,7 @@ The Shannon Allotment Website is a landing page for members of the public in Sha
     - [Imagery](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#imagery)
 * [Features](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#features)
 * [Existing Features](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#existing-features)
+* [Future Features](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#future-features)
     - [Home](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#home)
     - [Gallery](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#gallery)
     - [News](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#news)
@@ -47,7 +48,7 @@ This project has 2 main objectives:
 The website should inform on and promote Shannon Allotments ethos and commitment to improving the local natural environment. It should allow members of the public an easy access route for contacting the allotment group.
 It should include:
 
-* A brief explanation of the Allotments location and organsing body.
+* A brief explanation of the Allotments location and organising body.
 * A gallery showcasing the work on the allotments.
 * A contact form for enquiries.
 * Links to social media
@@ -114,15 +115,15 @@ At the bottom of all pages, is the footer. It’s minimal in style and contains 
 Representative images are displayed in one simple and symmetrical gallery, with an off white  backdrop for visual impact.
 ![Gallery Page Image](/assets/images/readme_images/gallerypage.PNG)
 ### News
-Via pictures and text placed on a fully responsive grid, users can find out more about the ethos at the allotment and the importance of biodiversity. It contains a short paragraph describing current biodiversity projects running at the Allotments. It also the work in progress biodiversity garden.
+Via pictures and text placed on a responsive grid, users can find out more about the ethos at the allotment and the importance of biodiversity. It contains a short paragraph describing current biodiversity projects running at the Allotments. The image also shows the work in progress in the biodiversity garden.
 
 ![News Page Image](/assets/images/readme_images/newspage.PNG)
 ### Contact
 The contact page contains a simple and fully responsive form, via which users can contact the Allotment group without having to leave the site. This page completes the user’s journey through the site and is designed to be calm, simple and reassuring, with 4 labelled inputs and a submit button styled in keeping with the rest of the site. The form is set against a visually appealling garden scene in keeping with the style of the site for great UX.
 
 ## Future Features
-I have noticed just prior to submission, potential issues wih the contact page responsivity. With more I would investigate further, re-testing over smaller screen sizes. 
-I had hoped to utilise the hamburger navbar for smaller screens, for imrproved UX in this would be a future feature I would like to employ.
+I have noticed just prior to submission, potential issues wih the contact page responsivity. With more time, I would investigate further, re-testing over smaller screen sizes. 
+I had hoped to utilise the hamburger navbar for smaller screens, to improve UX on mobile devices  this would be a future feature I would like to employ.
 
 ![Contact Page Image](/assets/images/readme_images/contactpage.PNG)
 ## Technologies Used
@@ -144,7 +145,7 @@ The site was deployed to GitHub pages.
 ### Deploy to GitHub Pages
 1. Navigate to the settings tab in the GitHub repository
 2. Once in settings, navigate to the pages tab on the left of the page
-3. Under source, select branch ‘master’ and then click ‘save’
+3. Under source, select branch ‘main’ and then click ‘save’
 4. Page will no automatically refresh and show a detailed ribbon display to indicate deployment
 
 ### To Fork the Repository
@@ -166,11 +167,11 @@ To make a copy or ‘fork’ the repository -
 Many issues were at least partly resolved by searching Stack Overflow, w3schools and MDN Docs.
 Harry, a Code Institue mentor helped with my understanding of a responsive css nav bar.
 Inspiration for the README.md came from Tasha Taylor Johnson's repository.
-Content from Gardening for Biodiversity booklet by Juanita Browne was included on the News Page. .
+Content from the Gardening for Biodiversity booklet by Juanita Browne was included on the News Page.
 
 ### Code
 Throughout the building process I found many helpful tutorials online. I sometimes applied principles within them to the site, after fully understanding their code and modifying to fit the site's needs.
-For example for a responsive Youtube video I used this [tutorial](https://www.youtube.com/watch?v=9YffrCViTVk)
+For example for a responsive Youtube video I used this [tutorial](https://www.youtube.com/watch?v=9YffrCViTVk).
 
 The image gallery, navbar and contact form were inspired by Code Institutes Love Running project
 
