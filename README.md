@@ -102,7 +102,7 @@ The site contains common features such as a navigational bar and footer, familia
 
 ## Existing Features
 ### Home
-The bottom of the page contains a location map the user want to visit.
+The bottom of the page contains a location map the user wants to visit the site.
 ![Home Page Full Screen Image](/assets/images/readme_images/homepage.PNG)
 #### Navigational Bar
 Heading each page top, it’s responsive and links to all pages, reachable at any time within the user's journey through the site. 
@@ -115,6 +115,7 @@ Representative images are displayed in one simple and symmetrical gallery, with 
 ![Gallery Page Image](/assets/images/readme_images/gallerypage.PNG)
 ### News
 Via pictures and text placed on a fully responsive grid, users can find out more about the ethos at the allotment and the importance of biodiversity. It contains a short paragraph describing current biodiversity projects running at the Allotments. It also the work in progress biodiversity garden.
+
 ![News Page Image](/assets/images/readme_images/newspage.PNG)
 ### Contact
 The contact page contains a simple and fully responsive form, via which users can contact the Allotment group without having to leave the site. This page completes the user’s journey through the site and is designed to be calm, simple and reassuring, with 4 labelled inputs and a submit button styled in keeping with the rest of the site. The form is set against a visually appealling garden scene in keeping with the style of the site for great UX. 
