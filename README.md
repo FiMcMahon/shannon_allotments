@@ -5,7 +5,7 @@ This Website was created for the sole purpose of completing the portfolio 1 Proj
 
 The live website can be found at [Shannon Allotments](https://fimcmahon.github.io/shannon_allotments/)
 ## Shannon Allotments Responsive website 
-![Am I Responsive Image](/assets/images/readme_images/amiresponsive.png)
+![Am I Responsive Image](/assets/images/readme_images/amiresponsive.PNG)
 The Shannon Allotment Website is a landing page for members of the public in Shannon, Co.Clare and surrounds who are interested in gardening and growing food.The Shannon Allotments are a community group leasing allotments from Clare County Council for the purpose of growing their own fruit, flowers and vegetables.
 
 ## Contents
@@ -28,12 +28,12 @@ The Shannon Allotment Website is a landing page for members of the public in Sha
     - [Contact](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#contact)
 * [Technologies Used](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#technologies-used)
 * [Testing](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#testing)
-* [Deployment](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#deployment)
-    - [To Fork the Repository]
-    - [To create a Local Clone]
+* [Deployment](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#deployment)#
+    - [Deploy to Github Pages](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#deploy-to-github-pages)
+    - [To Fork the Repository](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#to-fork-the-repository)
+    - [To create a Local Clone](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#to-create-a-local-clone)
 * [Credits]
     - [Content](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#content)
-    - [Media](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#media)
     - [Code](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#code)
 * [Acknowledgements](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#acknowledgements)
 
@@ -157,16 +157,13 @@ To make a copy or ‘fork’ the repository -
 ### Content
 Many issues were at least partly resolved by searching Stack Overflow, w3schools and MDN Docs.
 Harry, a Code Institue mentor helped with my understanding of a responsive css nav bar.
-Inspiration for the README.md came from Tasha Taylor Johnson's repository
-
-### Media
-All photos are either my own or exists in the public domain already.
+Inspiration for the README.md came from Tasha Taylor Johnson's repository.
+Content from Gardening for Biodiversity booklet by Juanita Browne was included on the News Page. .
 
 ### Code
 Throughout the building process I found many helpful tutorials online. I sometimes applied principles within them to the site, after fully understanding their code and modifying to fit the site's needs.
 
-The image gallery was inspired by Code Institutes Love Running project
-
+The image gallery, navbar and contact form were inspired by Code Institutes Love Running project
 
 ## Acknowledgements
 This website was executed and completed as a portfolio 1 Project for Diploma in Software Development (E-commerce Applications) at Code Institute. I would like to firstly thank my mentor,  Harry Dhillon for his patience and guidance. Shannon Allotments is a real concept, but the website is purely for the sake of the developer's portfolio and not for public consumption.
