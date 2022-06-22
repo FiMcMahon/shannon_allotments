@@ -162,6 +162,7 @@ Content from Gardening for Biodiversity booklet by Juanita Browne was included o
 
 ### Code
 Throughout the building process I found many helpful tutorials online. I sometimes applied principles within them to the site, after fully understanding their code and modifying to fit the site's needs.
+For example for a responsive Youtube video I used this [tutorial](https://www.youtube.com/watch?v=9YffrCViTVk)
 
 The image gallery, navbar and contact form were inspired by Code Institutes Love Running project
 
