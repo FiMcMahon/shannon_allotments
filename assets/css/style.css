@@ -90,24 +90,22 @@ border-bottom: 1px solid #3a3a3a;
 }
 }
 
-@media(max-width:426px){#logo{
+@media(max-width:426px)
+    {#logo{
         margin:0;
         float: inherit;
     }
 }
 
-@media(max-width:426px){#menu li{
-    margin-right:0;
-    margin-bottom:3%;
-    margin-top:3%;
+@media(max-width:426px)
+    {#menu li{
+        margin-right:0;
+        margin-bottom:3%;
+        margin-top:3%;
    
 }
 }
-@media(max-width:375px){
-    .navbar{
-        
-}
-}
+
 /**hero image**/
 #hero-image{
     display:flex;
@@ -170,57 +168,29 @@ border-bottom: 1px solid #3a3a3a;
 
 /*news*/
 
-h2~ p {
-    text-align:justify;
-    margin:5%;
-}
-
-.biodiversity_garden_container{
-    display:flex;
-    flex-direction:row;
-}
-
-.flex-child1{
-    flex: 1;
+.child1{
     max-width:100%;
-    margin:5%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.biodiversitygarden{
-    height: 25rem;
-    width: 25rem;
+#biodiversitygarden{
+    height: 75%;
+    width: 75%;
 
-}
-.flex-child2{
-    margin-left:5%;
-    margin-right:5%;
-    padding: 2px;
 }
 
 @media (max-width: 768px) 
 {.biodiversity_garden_container{
       flex-direction: column;
+      background-size:contain;
     }
 }
-@media (max-width: 768px) {.flex-child2 >p {
-    max-width:100%;
-    margin-left:5%;
-    margin-right:5%;
-  
-}
-}
-
-p> span{
-    float:left;
-
-}
-    
+ 
 div>p{
-        padding:0;
-    }
-    
+    padding:0;
+}
+
 .iframe-container{
     position:relative;
     width: 50%;
@@ -299,6 +269,6 @@ div>p{
 @media (max-width:768px) 
 {.signup-form{
     width: 90%;
-    top: 110%;
+    top: 90%;
 }
 }
