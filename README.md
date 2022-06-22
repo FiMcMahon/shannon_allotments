@@ -3,15 +3,10 @@ A website for the public of Shannon, Co.Clare ireland with information on the lo
 ## Purpose
 This Website was created for the sole purpose of completing the portfolio 1 Project for Diploma in Software Development. It was built using the knowledge gained from the HTML, CSS and User Centric Design modules. A full list of technologies used can be found in the technologies section of this document.
 
-The live website can be found **here**.
+The live website can be found [Link to Shannon Allotments webpage](https://fimcmahon.github.io/shannon_allotments/)
 ## Shannon Allotments Responsive website 
 //** Am I resposive image goes here**//
 The Shannon Allotment Website is a landing page for members of the public in Shannon, Co.Clare and surrounds who are interested in gardening and growing food.The Shannon Allotments are a community group leasing allotments from Clare County Council for the purpose of growing their own fruit, flowers and vegetables.
-## Live Site
-link to Shannon Allotments
-
-## Repository
-https://github.com/FiMcMahon/shannon_allotments
 
 ## Contents
 
@@ -61,7 +56,7 @@ It should include:
 Gardeners, Public in the local area, people interested in nature and the environment
 
 ## UX: User Experience
-User Stories  
+### User Stories  
 
 As a user I want to be able to:
 
@@ -78,18 +73,17 @@ As a user I want to be able to:
 * Connect with the Allotment group on social media
 
 
-
 ## Wireframes
 The Wireframes were produced using Balsamiq. The final site varies from the wireframes due to developments that occurred during the building process.
 
 ### Home Page:
-![Home Page Wireframe](/assets/images/readme_images/Home.png)
+![Home Page Wireframe](/assets/images/readme_images/home.png)
 ### Gallery Page:
-![Gallery Page Wireframe](/assets/images/readme_images/Gallery.png)
+![Gallery Page Wireframe](/assets/images/readme_images/gallery.png)
 ### News Page:
-![News Page Wireframe](/assets/images/readme_images/News.png)
+![News Page Wireframe](/assets/images/readme_images/news.png)
 ### Contact Page:
-![Contact Page Wireframe](/assets/images/readme_images/Contact.png)
+![Contact Page Wireframe](/assets/images/readme_images/contact.png)
 
 ## Site Structure
 Shannon Allotments is a 4 page website. The home page is the default loading page.The other pages are accessible from the navigation menu at all times.
@@ -159,15 +153,16 @@ To make a copy or ‘fork’ the repository -
 5. Type ‘git clone’ and then paste the URL copied from GitHub
 6. Press enter and the local clone will be created
 
-## Content
+## Credits
+### Content
 Many issues were at least partly resolved by searching Stack Overflow, w3schools and MDN Docs.
 Harry, a Code Institue mentor helped with my understanding of a responsive css nav bar.
 Inspiration for the README.md came from Tasha Taylor Johnson's repository
 
-## Media
+### Media
 All photos are either my own or exists in the public domain already.
 
-## Code
+### Code
 Throughout the building process I found many helpful tutorials online. I sometimes applied principles within them to the site, after fully understanding their code and modifying to fit the site's needs.
 
 The image gallery was inspired by Code Institutes Love Running project
