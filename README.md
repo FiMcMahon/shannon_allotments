@@ -28,11 +28,11 @@ The Shannon Allotment Website is a landing page for members of the public in Sha
     - [Contact](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#contact)
 * [Technologies Used](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#technologies-used)
 * [Testing](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#testing)
-* [Deployment](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#deployment)#
+* [Deployment](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#deployment)
     - [Deploy to Github Pages](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#deploy-to-github-pages)
     - [To Fork the Repository](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#to-fork-the-repository)
     - [To create a Local Clone](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#to-create-a-local-clone)
-* [Credits]
+* [Credits](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#credits)
     - [Content](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#content)
     - [Code](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#code)
 * [Acknowledgements](https://github.com/FiMcMahon/shannon_allotments/blob/main/README.md#acknowledgements)
@@ -118,8 +118,13 @@ Via pictures and text placed on a fully responsive grid, users can find out more
 
 ![News Page Image](/assets/images/readme_images/newspage.PNG)
 ### Contact
-The contact page contains a simple and fully responsive form, via which users can contact the Allotment group without having to leave the site. This page completes the user’s journey through the site and is designed to be calm, simple and reassuring, with 4 labelled inputs and a submit button styled in keeping with the rest of the site. The form is set against a visually appealling garden scene in keeping with the style of the site for great UX. 
+The contact page contains a simple and fully responsive form, via which users can contact the Allotment group without having to leave the site. This page completes the user’s journey through the site and is designed to be calm, simple and reassuring, with 4 labelled inputs and a submit button styled in keeping with the rest of the site. The form is set against a visually appealling garden scene in keeping with the style of the site for great UX.
 
+## Future Features
+I have noticed just prior to submission, potential issues wih the contact page responsivity. With more I would investigate further, re-testing over smaller screen sizes. 
+I had hoped to utilise the hamburger navbar for smaller screens, for imrproved UX in this would be a future feature I would like to employ.
+
+![Contact Page Image](/assets/images/readme_images/contactpage.PNG)
 ## Technologies Used
 * HTML5 - provides content and structure
 * CSS - provides styling
