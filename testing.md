@@ -30,7 +30,7 @@ I Used Lighthouse in Chrome Developer Tools to test each of the pages for:
 * Accessibility - How accessible is the site for all users and how can it be improved.
 * Best Practices - How does the site conform to industry best practices.
 * SEO - Search engine optimisation. Is the site optimised for search engine result rankings.
-* ////After some below 90 scores on initial mobile tests, I compressed the site images and re-tested each page.////
+* After some below 90 scores on initial mobile tests, I compressed the site images and re-tested each page.
 
 Initial Testing Mobile:
 ![Gallery Page Mobile Test](/assets/images/readme_images/lighthouse_gallerypage_mobile.PNG)
